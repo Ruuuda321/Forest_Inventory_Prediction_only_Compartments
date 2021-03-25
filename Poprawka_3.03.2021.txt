@@ -1,0 +1,1 @@
+- wprowadzono warunek, że w przypadku gdy Vm jest NaN to przyjmuje on wartość 0 (występuje zazwyczaj wtedy kiedy któraś ze zmniennych ma wartość NaN
